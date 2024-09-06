@@ -22,7 +22,7 @@
   <a href="https://x.com/Komma_01">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?Kim0Tsok&style=flat-square&color=blue" alt=""/>
+  <img src="https://camo.githubusercontent.com/3c89058184ce3dae7f79d9209653f7bff5b7b41bd1b823565182afcddcd87610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d6d79393439266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt=""/>
 </div>
 
 ##
